@@ -3,7 +3,7 @@
 // Set your server key (Note: Server key for sandbox and production mode are different)
 $server_key = isset($_GET['key']) ? 
   $_GET['key'] : 
-  '<your server key>';
+  'SB-Mid-server-E7SUXZ1UvGjfhlSh2TlqgXbp';
 
 // Set true for production, set false for sandbox
 $is_production = false;
